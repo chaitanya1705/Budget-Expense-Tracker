@@ -1,4 +1,4 @@
-#Budget and Expense Tracker (Spring Boot + MVC + OOAD)
+# 💰Budget and Expense Tracker 
 
 ## 📋 Project Overview
 A modern, full-featured **Budget & Expense Tracker** application built using:
